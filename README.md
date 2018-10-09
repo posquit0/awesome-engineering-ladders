@@ -27,6 +27,7 @@
 ## Contents
 
 * [Real World](#real-world)
+  * [Kickstarter](#kickstarter)
   * [Rent the Runway](#rent-the-runway)
 * [Resources](#resources)
   * [Articles](#articles)
@@ -38,10 +39,16 @@
 
 ## Real World
 
+### Kickstarter
+
+- [Docs](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc) - Kickstarter Engineering Ladder
+
 ### Rent the Runway
 
 - [Article](http://dresscode.renttherunway.com/blog/ladder) - Sharing Our Engineering Ladder
 - [Slide](http://www.slideshare.net/CamilleFournier1/how-to-go-from-structureless-to-structured-without-losing-your-vibe) - Moving Towards Structure
+- [Docs](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk) - Developer Career Ladder
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4) - Software Development/Leadership Ladder
 
 
 ## Resources
