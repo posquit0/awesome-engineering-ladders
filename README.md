@@ -21,7 +21,7 @@
 
 <br />
 
-**Engineering Ladder** define.
+**Engineering Ladder** define the job descriptions and levels of an engineering organization.
 
 
 ## Contents
