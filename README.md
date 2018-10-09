@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/posquit0/awesome-engineering-ladders" title="Awesome Engineering Ladders">
-    <img width="500" src="media/logo.png" alt="Awesome Engineering Ladders">
+    <img width="500" src="media/ladder.png" alt="Awesome Engineering Ladders">
   </a>
   <br />
   <h1>Awesome Engineering Ladders</h1>
