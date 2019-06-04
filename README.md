@@ -41,42 +41,47 @@
 
 ### Kickstarter
 
-- [Docs](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc) - Kickstarter Engineering Ladder
+* [Docs](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc) - Kickstarter Engineering Ladder
 
 ### Rent the Runway
 
-- [Article](http://dresscode.renttherunway.com/blog/ladder) - Sharing Our Engineering Ladder
-- [Slide](http://www.slideshare.net/CamilleFournier1/how-to-go-from-structureless-to-structured-without-losing-your-vibe) - Moving Towards Structure
-- [Docs](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk) - Developer Career Ladder
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4) - Software Development/Leadership Ladder
+* [Article](http://dresscode.renttherunway.com/blog/ladder) - Sharing Our Engineering Ladder
+* [Slide](http://www.slideshare.net/CamilleFournier1/how-to-go-from-structureless-to-structured-without-losing-your-vibe) - Moving Towards Structure
+* [Docs](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk) - Developer Career Ladder
+* [Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4) - Software Development/Leadership Ladder
 
 
 ## Resources
 
 ### Articles
 
-- To Be Updated
+* To Be Updated
 
 ### Books
 
-- To Be Updated
+* To Be Updated
 
 ### Videos
 
-- To Be Updated
+* To Be Updated
 
 ### Slides
 
-- To Be Updated
+* To Be Updated
 
 ### Blogs
 
-- To Be Updated
+* To Be Updated
 
 
 ## Self Promotion
 
 Like this project? Follow the repository on [GitHub](https://github.com/posquit0/awesome-engineering-ladders). And if you're feeling especially charitable, follow [posquit0](https://posquit0.com) on [GitHub](https://github.com/posquit0).
+
+
+## See Also
+
+* [Awesome Engineering Team Principles](https://github.com/posquit0/awesome-engineering-team-principles)
 
 
 ## License
