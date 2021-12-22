@@ -34,6 +34,7 @@
   * [Etsy](#etsy)
   * [Misc](#misc)
 * [Resources](#resources)
+  * [Frameworks](#frameworks)
   * [Articles](#articles)
   * [Books](#books)
   * [Videos](#videos)
@@ -72,6 +73,10 @@
 
 
 ## Resources
+
+### Frameworks
+
+* [Engineering Ladders: A framework for Engineering Managers](http://www.engineeringladders.com/)
 
 ### Articles
 
