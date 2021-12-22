@@ -55,6 +55,10 @@
 * [Docs](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk) - Developer Career Ladder
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4) - Software Development/Leadership Ladder
 
+### Misc
+
+* [Career Ladders: A sample of career ladders](https://career-ladders.dev/engineering/) - by @sdras VP of Developer Experience at Netlify
+
 
 ## Resources
 
