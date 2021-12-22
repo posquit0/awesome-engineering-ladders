@@ -30,6 +30,9 @@
   * [Dropbox](#dropbox) 
   * [Kickstarter](#kickstarter)
   * [Rent the Runway](#rent-the-runway)
+  * [GitLab](#gitlab)
+  * [Etsy](#etsy)
+  * [Misc](#misc)
 * [Resources](#resources)
   * [Articles](#articles)
   * [Books](#books)
@@ -55,9 +58,17 @@
 * [Docs](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk) - Developer Career Ladder
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4) - Software Development/Leadership Ladder
 
+### GitLab
+
+* [Docs](https://about.gitlab.com/handbook/engineering/career-development/) - Engineering Career Development
+
+### Etsy
+
+* [Docs](https://etsy.github.io/Etsy-Engineering-Career-Ladder/) - Etsy Engineering Career Ladder
+
 ### Misc
 
-* [Career Ladders: A sample of career ladders](https://career-ladders.dev/engineering/) - by @sdras VP of Developer Experience at Netlify
+* [Career Ladders: A sample of career ladders](https://career-ladders.dev/engineering/) - by [@sdras](https://github.com/sdras), VP of Developer Experience at Netlify
 
 
 ## Resources
