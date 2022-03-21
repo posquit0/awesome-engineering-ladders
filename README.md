@@ -70,7 +70,7 @@
 ### Misc
 
 * [Career Ladders: A sample of career ladders](https://career-ladders.dev/engineering/) - by [@sdras](https://github.com/sdras), VP of Developer Experience at Netlify
-
+* [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
 
 ## Resources
 
